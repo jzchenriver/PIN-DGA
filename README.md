@@ -1,3 +1,3 @@
 # PIN-DGA
 
-The codes, data, and models will be avialabel once the review is completed.
+The codes, data, and models will be available after the review.

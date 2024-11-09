@@ -17,8 +17,10 @@ the average probability of detection (PD) by 16.08 and reduce false alarm target
 
 # Full-text
 https://ieeexplore.ieee.org/abstract/document/10736658
+Chen G, Wang W, Wang Z, et al. Enhanced Generalization Ability of Infrared Small Target Detection via Perturbed Training and Adaptive Test[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024.
 
-If you find this work help, please cite it.
+
+If you find the work helpful, please give me a star and cite the paper.
 
 Thank you!
 

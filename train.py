@@ -17,7 +17,7 @@ from utils.sam import FSAM
 parser = argparse.ArgumentParser()
 parser.add_argument('--train_dataset', type=str, default='IRSTD-1k')
 parser.add_argument('--base_size', type=int, default=512, help='image size')
-parser.add_argument('--save_path', type=str, default='result/PIN_DGA/')
+parser.add_argument('--save_path', type=str, default='result/PIN-DGA/')
 parser.add_argument('--batch_size', type=int, default=4)
 parser.add_argument('--n_epochs', type=int, default=200)
 parser.add_argument('--lr', type=float, default=0.05)

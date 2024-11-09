@@ -6,5 +6,17 @@ While deep learning (DL) methods based on empirical risk minimization (ERM) have
 can more effectively improve the detection performance of DL methods on unseen target domains. As a model-agnostic framework, we verified its compatibility with current state-of-theart networks. On three OOD datasets, our method can improve
 the average probability of detection (PD) by 16.08 and reduce false alarm targets (FATs) by 33%.
 
-
 ![image](https://github.com/user-attachments/assets/ea9be1f3-cfb4-4f09-9fb9-6e84fcbf3ea9)
+
+# Usage
+
+Download datasets by https://drive.google.com/file/d/1BRZvfkM3_8IbSp95dmjzHifWLcyErB35/view?usp=drive_link and unzip it.
+(One of the sequences in the IRSTScenes dataset is private.)
+
+# Full-text
+https://ieeexplore.ieee.org/abstract/document/10736658
+
+If you find this work help, please cite it.
+
+Thank you!
+

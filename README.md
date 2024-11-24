@@ -12,8 +12,8 @@ the average probability of detection (PD) by 16.08 and reduce false alarm target
 
 1. Download datasets by https://drive.google.com/file/d/1BRZvfkM3_8IbSp95dmjzHifWLcyErB35/view?usp=drive_link and unzip it. (Sequence f2 in the IRSTScenes dataset is private.)
 2. Train a network: run 'train.py'
-3. Infer by a learned model: run 'inference.py'
-4. Get metrics: run 'get_metrics.py' (after inference needed)
+3. Infer by a learned model: run 'inference.py' (get detection images)
+4. Get metrics: run 'get_metrics.py' (compute metrics based on detection images)
 
 # Full-text
 
